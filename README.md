@@ -47,14 +47,6 @@ To analyze employee data and identify key factors influencing workforce trends s
 
 ---
 
-## 🚀 How to Use
-1. Download the `.pbix` file from this repository.  
-2. Open it in **Power BI Desktop**.  
-3. Connect to the provided dataset if needed (`HR_Project_Power BI.csv`).  
-4. Explore the dashboard and interact with visual filters.
-
----
-
 ## 📊 Sample Insights Snapshot 
 > ![Dashboard Preview](https://github.com/Kshitija-Agrawal/PowerBI-HR-Analytics-Dashboard/blob/main/HR%20Dashboard.png)
 > ![Dashboard Preview](https://github.com/Kshitija-Agrawal/PowerBI-HR-Analytics-Dashboard/blob/main/HR%20Dashboard%20-%20Detailed%20view.png)
